@@ -11,6 +11,7 @@ namespace ThucTapCoSo
             Console.Write("## Me la cay nen xanh la la !!!");
 
             Console.Write("Con la cay nen vang");
+            console.write("huy ");
         }
     }
 }
