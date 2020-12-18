@@ -8,6 +8,7 @@ namespace ThucTapCoSo
         {
             Console.WriteLine("Ba la cay nen vang");
             Console.Write("Me la cay nen xanh");
+            Console.Write("Con la cay nen vang");
         }
     }
 }
