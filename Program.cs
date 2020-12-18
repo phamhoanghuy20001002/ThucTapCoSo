@@ -6,7 +6,8 @@ namespace ThucTapCoSo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ba la cay nen vang");
+            Console.Write("Me la cay nen xanh");
         }
     }
 }
